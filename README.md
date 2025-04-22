@@ -1,12 +1,12 @@
 # iden_challenge_script
 
-# 🛒 IDEN Challenge Script
+# IDEN Challenge Script
 
 This script automates the extraction of inventory data from the IDENHQ challenge portal using [Playwright](https://playwright.dev/python/). It logs in, navigates the UI, and extracts product data into structured JSON files.
 
 ---
 
-## 🚀 Features
+## Features
 
 - Headless browser automation with Playwright
 - Session management for reusability
@@ -16,10 +16,3 @@ This script automates the extraction of inventory data from the IDENHQ challenge
 
 ---
 
-## 🔧 Setup
-
-1. Clone the repo:
-
-```bash
-git clone https://github.com/saanvi160/iden_challenge_script.git
-cd iden_challenge_script
